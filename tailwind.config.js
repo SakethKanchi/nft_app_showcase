@@ -3,13 +3,13 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        primary: "#0B65C6",
+        primary: "#161320",
         secondary: "#EEF1F6",
         tertiary: "#0e1133",
 
-        lightBlue: "#E1F6FE",
-        lightPink: "#FDEEDC",
-        lightGreen: "#E1FDE2",
+        lightBlue: "#96CDFB",
+        lightPink: "#F5C2E7",
+        lightGreen: "#ABE9B3",
       },
       lineHeight: {
         12: "1.2",
